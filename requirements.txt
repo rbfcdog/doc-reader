@@ -1,0 +1,4 @@
+transformers==4.37.0
+torch==2.2.0
+sentencepiece==0.1.98
+pillow
